@@ -1,1 +1,1 @@
-{"lawyer":["lawyer/data.json"],"lawyer-office":["lawyer-office/data.json"],"lawyer-office-time":["lawyer-office/data.json"]}
+{"lawyer":["lawyer/data.json","lawyer-time/data.json"],"lawyer-office":["lawyer-office/data.json"],"lawyer-office-time":["lawyer-office-time/data.json"]}
